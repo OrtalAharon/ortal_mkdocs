@@ -3,6 +3,8 @@ site_name: Ortal NoteBooks
 # defeine TOC or order of website-
 nav:
   - HOME: topics.md
+  - MKDOCS: mkdocs.md
+  - TypeScript: typescript.md
 
 site_author: Ortal Sabag
 site_description: >-
