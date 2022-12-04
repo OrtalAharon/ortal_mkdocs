@@ -1,18 +1,19 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: Ortal NoteBooks
 # defeine TOC or order of website-
 nav:
-  - Home: index.md
-  - Page-2: page-2.md
+  #- Home: index.md
+  #- Page-2: page-2.md
+  - HOME: topics.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Ortal Sabag
 site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/material-for-mkdocs-crash-course-updated
+repo_name: ortalaharon/ortal_mkdocs
 
-repo_url: https://github.com/c17hawke/material-for-mkdocs-crash-course-updated
+repo_url: https://github.com/ortalaharon/ortal_mkdocs
 
 # Configuration
 theme:
